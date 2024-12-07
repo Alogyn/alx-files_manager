@@ -67,23 +67,23 @@ npm run start-worker
 ## 📝 Features
 ### Core Features
 1. User Authentication:
-  - Login and generate tokens.
-  - Logout and invalidate tokens.
-  - 
+      - Login and generate tokens.
+      - Logout and invalidate tokens.
+
 2. File Management:
-  - Upload files (text, images).
-  - Manage public/private access.
-  - Retrieve file content with MIME types.
-  - 
+      - Upload files (text, images).
+      - Manage public/private access.
+      - Retrieve file content with MIME types.
+
 3. File Viewing and Pagination:
-  - List files with pagination support.
-  - Retrieve individual file metadata.
-  - 
+      - List files with pagination support.
+      - Retrieve individual file metadata.
+
 4. Image Thumbnail Generation:
-  - Generate thumbnails (100px, 250px, 500px).
-  - 
+      - Generate thumbnails (100px, 250px, 500px).
+        
 5. Statistics:
-  - Monitor number of users and files.
+      - Monitor number of users and files.
 
 ### Endpoints Overview
 
