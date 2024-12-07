@@ -121,5 +121,5 @@ npm run start-worker
 - [Redis](https://github.com/redis/node-redis)
 
 ## ⚖️ License
-This project is part of the ALX Software Engineering Program.
+This project is part of the ALX Software Engineering Program.  
 © 2024 ALX. All rights reserved.
